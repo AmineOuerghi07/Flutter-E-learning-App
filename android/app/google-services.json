@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "418221469367",
+    "firebase_url": "https://stage-33c5a-default-rtdb.firebaseio.com",
+    "project_id": "stage-33c5a",
+    "storage_bucket": "stage-33c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418221469367:android:69d2a8a8ef777324d0a732",
+        "android_client_info": {
+          "package_name": "com.example.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418221469367-qsgv3p86cdihai48ihkb7c4lf9huj4mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvWASwxNLapdVHw3QMOf-5dTdn0d_TKqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418221469367-qsgv3p86cdihai48ihkb7c4lf9huj4mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418221469367-80e4574ifvja47a964gm8ul3ha2ddrr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stage.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418221469367:android:2fd5359167a47367d0a732",
+        "android_client_info": {
+          "package_name": "com.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418221469367-qsgv3p86cdihai48ihkb7c4lf9huj4mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvWASwxNLapdVHw3QMOf-5dTdn0d_TKqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418221469367-qsgv3p86cdihai48ihkb7c4lf9huj4mu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418221469367-80e4574ifvja47a964gm8ul3ha2ddrr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stage.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
